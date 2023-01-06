@@ -11,16 +11,6 @@ function toggleMode() {
 
     img.setAttribute("src", "./assed/Ellipse.png")
   } else {
-    img.setAttribute("src", "./assed/Avatar.png")
+    img.setAttribute("src", "./assed/paulo02.png")
   }
 }
-
-
-
-
-
-
-/*function toggleMode() {
-  const html = document.documentElement
-  html.classList.toggle("light")
-}*/
